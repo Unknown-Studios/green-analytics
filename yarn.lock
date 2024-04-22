@@ -3077,10 +3077,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"doc999tor-fast-geoip@npm:^1.1.196":
-  version: 1.1.196
-  resolution: "doc999tor-fast-geoip@npm:1.1.196"
-  checksum: 7c82d70f904dbea022c496effecdfc8780a8f67961f316ede8e7191e834d080eeebe1f7ba985926ea2fb237946cd9796444be986b11e8711af9173601a34aa87
+"doc999tor-fast-geoip@npm:^1.1.216":
+  version: 1.1.216
+  resolution: "doc999tor-fast-geoip@npm:1.1.216"
+  checksum: 0d1ec963f6a2f7645ca17a6d8fd41ef22655faba93e7af837262b7ab19261f2b1beec3e0830b65ca9871018a563fb7fc8294872e5b4d3ba203b4ca59f21c60e7
   languageName: node
   linkType: hard
 
@@ -3722,7 +3722,7 @@ __metadata:
     chart.js: "npm:^4.4.1"
     convert: "npm:^4.14.1"
     cross-env: "npm:^7.0.3"
-    doc999tor-fast-geoip: "npm:^1.1.196"
+    doc999tor-fast-geoip: "npm:^1.1.216"
     google-auth-library: "npm:^9.6.3"
     green-analytics-js: "npm:^1.1.14"
     highlight.js: "npm:^11.9.0"
